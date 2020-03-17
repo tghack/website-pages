@@ -9,15 +9,14 @@ in hacking is tremendously steep, but when your hacker and google skills
 arrive at a certain level, the thirst for knowledge is hard to stop and you 
 suddenly obtain your black belt in google-foo.
 
-In addition to providing the list of tools on this page, we have a little 
-starting kit for your hacker journey. That starting kit is the tutorials on 
-using _Python_ to make solution scripts for CTF tasks in general, and then a
-little more in detail on how to use these _Python_ skills to solve cryptography
-and pwn tasks. Those of you who have a little experience with Python scripting,
-and simple encoding and encryption, you may skip this tutorial and move 
-straight on to the **n00b** tasks. You find the tutorials 
-[here](https://tghack.no/page/Tutorial), and the corresponding tasks in the 
-_n00b_, _crypto_ and _pwn_ categories at the [tasks page](https://tghack.no/categories). 
+In addition to providing the list of tools on this page, we have a little
+starting kit for your hacker journey, beginner tutorials on how to get started 
+with different topics within CTFs!! Those of you who have a little experience 
+with CTFs and this year's n00b categories may find it more fun to jump straight 
+to the **n00b** tasks without looking at the tutorials:
+* [Tutorials](https://tghack.no/page/Tutorial) 
+* Tasks are in the [tasks page](https://tghack.no/categories). When the 
+main competition starts, all tutorial tasks are moved to the _n00b_ category.
 
 ______
 

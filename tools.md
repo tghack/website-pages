@@ -15,8 +15,8 @@ with different topics within CTFs!! Those of you who have a little experience
 with CTFs and this year's n00b categories may find it more fun to jump straight 
 to the **n00b** tasks without looking at the tutorials:
 * [Tutorials](https://tghack.no/page/Tutorial) 
-* Tasks are in the [tasks page](https://tghack.no/categories). When the 
-main competition starts, all tutorial tasks are moved to the _n00b_ category.
+* [Challenges](https://tghack.no/categories). All tutorial tasks are moved to 
+the _n00b_ category before main competition begins.
 
 ______
 

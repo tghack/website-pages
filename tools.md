@@ -40,7 +40,7 @@ and decoders for different ciphers within cryptography. And a lot more!!!
 ### Cryptography
 * Sagemath
 * Python scripting: 
-  * [pycrypto](https://github.com/dlitz/pycrypto)
+  * [pycryptodome](https://github.com/Legrandin/pycryptodome)
   * [pwntools](https://github.com/Gallopsled/pwntools)
 * [CyberChef](https://gchq.github.io/CyberChef/)
 

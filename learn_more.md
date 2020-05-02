@@ -9,20 +9,25 @@ is a YouTube channel containing lots of videos about "computers and
 computer stuff". 
 * [Ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/videos) is
 another YouTube channel explaining walkthroughs for __retired__ "HackTheBox" machines.
-He also offers great tips and tricks for penetration testing and how to get better at CTFs in
-general. See [the section below](#nice-puzzles-for-learning-more-hacking) for more info about the pentesting lab "HackTheBox".
+He also offers great tips and tricks for penetration testing and how to get better 
+at CTFs in general. See [the section below](#nice-puzzles-for-learning-more-hacking) 
+for more info about the pentesting lab "HackTheBox".
 * [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 is a YouTube channel with loads of hacking and CTF videos.
-* [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg) is a YouTuber from the CTF team Dragon Sector.
+* [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg) is a YouTuber 
+from the CTF team Dragon Sector.
 * [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
 another YouTuber with CTF writeups.
 * [How HTTPS Works](https://howhttps.works/) is a funny web page 
 explaining how HTTPS works through a nice comic. 
-* [Hacking Arena](https://www.hackingarena.no/challenges/web/) is the university of Oslo's 
-web page for hacking tasks. Some tasks contains solutions.
-* [BlackHoodie](https://www.blackhoodie.re/) offers free, women only workshops within the security
-and hacking domain. We definitely recommend all women and non-binary people to check out
-their workshops. 
+* [Hacking Arena](https://www.hackingarena.no/challenges/web/) is the university of 
+Oslo's web page for hacking tasks. Some tasks contains solutions.
+* [BlackHoodie](https://www.blackhoodie.re/) offers free, women only workshops within 
+the security and hacking domain. We definitely recommend all women and non-binary 
+people to check out their workshops. 
+* [Pico CTF](https://picoctf.com/) is a free computer security game targeted at middle 
+and high school students, created by security experts at Carnegie Mellon University. 
+
 
 ### In Oslo/Norway
 * UiO-CTF's practical workshops are very nice to learn how to solve CTF 
@@ -60,9 +65,6 @@ CTFtime, where CTF's are posted and teams and users are ranked. It seems
 like it is brand new, so some functionality is missing.
 * [CTF Norge](https://discord.gg/P4X4WyN) on Discord posts a few university
 CTFs now and then in the #ctf channel.
-* Looking for a team (and live in Norway or are from Norway)? The 
-university team [UiO-CTF](https://discord.gg/E24KzaJ) is more than happy 
-to compete with you.
 
 ## Nice puzzles for learning more hacking
 * [Overthewire](http://overthewire.org/wargames) is a very nice website for 
@@ -79,7 +81,7 @@ intentionally insecure web page.
 * [Hackthebox](https://www.hackthebox.eu/), "Hack The Box is an online platform 
 allowing you to test your penetration testing skills and exchange ideas and 
 methodologies with other members of similar interests."
-* [TGHack's old tasks](https://github.com/tghack) on github. 
+* [TG:HACK's old tasks](https://github.com/tghack) on github. 
 
 ## Secure Coding
 * [OWASP Secure Coding Dojo](https://owasp.org/www-project-secure-coding-dojo/)

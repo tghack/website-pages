@@ -91,6 +91,8 @@ you don't have to setup a local server to receive requests.
 ### Misc
 * [z3](https://github.com/Z3Prover/z3): "Z3 is a theorem prover from Microsoft Research."
 * [pwntools](https://github.com/Gallopsled/pwntools)
+* [WolframAlpha](https://www.wolframalpha.com/): "Compute expert-level answers using Wolfram’s 
+breakthrough algorithms, knowledgebase and AI technology"
 
 ### Terminal tools
 * man pages: Manual pages for functions. Write man in front of any terminal command or C function. 

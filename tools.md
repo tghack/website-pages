@@ -29,7 +29,6 @@ for hackers! And remember, you need to train hard to get your google-foo black b
 * By googling: Web pages with converting programs, e.g. hex to ascii. Calculators 
 and decoders for different ciphers within cryptography. And a lot more!!!
 * Wikipedia 
-* Kali Linux: An image of an operating system with loads of tools. 
 * [zarduz/ctf-tools](https://github.com/zardus/ctf-tools) github repo with loads of CTF tools.
 * [CyberChef](https://gchq.github.io/CyberChef/) for encoding and decoding.
 

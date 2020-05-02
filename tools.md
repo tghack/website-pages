@@ -47,6 +47,9 @@ and decoders for different ciphers within cryptography. And a lot more!!!
 * [Online JavaScript Beautifier](https://beautifier.io/)
 * [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): 
 A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+* [Google's CSP evaluator](https://csp-evaluator.withgoogle.com/)
+* [Request Bin (or pipedream?)](https://requestbin.com/), a page to send requests to so 
+you don't have to setup a local server to receive requests. 
 
 ### Forensics
 * [Wireshark](https://www.wireshark.org/docs/man-pages/wireshark.html)

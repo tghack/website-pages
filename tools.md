@@ -15,13 +15,11 @@ with different topics within CTFs!! Those of you who have a little experience
 with CTFs and this year's n00b categories may find it more fun to jump straight 
 to the challenges:
 
-* [Tutorials](https://tghack.no/page/Tutorial) 
-* [Challenges](https://tghack.no/categories). All tutorial tasks are moved to 
-the _n00b_ category before main competition begins.
+* [Tutorials](/page/Tutorial) 
+* [Challenges](/categories). All tutorial tasks are moved to the _n00b_ 
+category before main competition begins.
 
 ______
-
-<br>
 
 ## Tools
 ### General tools
@@ -35,16 +33,12 @@ and decoders for different ciphers within cryptography. And a lot more!!!
 * [zarduz/ctf-tools](https://github.com/zardus/ctf-tools) github repo with loads of CTF tools.
 * [CyberChef](https://gchq.github.io/CyberChef/) for encoding and decoding.
 
-<br>
-
 ### Cryptography
 * Sagemath
 * Python scripting: 
   * [pycryptodome](https://github.com/Legrandin/pycryptodome)
   * [pwntools](https://github.com/Gallopsled/pwntools)
 * [CyberChef](https://gchq.github.io/CyberChef/)
-
-<br>
 
 ### Web Security
 * DevTools in web browser: When in a website, open with `Ctrl+Shift+I`, 
@@ -55,8 +49,6 @@ and decoders for different ciphers within cryptography. And a lot more!!!
 * [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): 
 A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
-<br>
-
 ### Forensics
 * [Wireshark](https://www.wireshark.org/docs/man-pages/wireshark.html)
 * [tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
@@ -65,8 +57,6 @@ A list of useful payloads and bypass for Web Application Security and Pentest/CT
 * [foremost](https://tools.kali.org/forensics/foremost) for recovering files from disk images or other files.
 * [Sleuth Kit](https://www.sleuthkit.org/sleuthkit/download.php) Disk image forensic toolkit.
 * [Volatility](https://github.com/volatilityfoundation/volatility) Memory forensics framework.
-
-<br>
 
 ### Reverse Engineering
 * [Ghidra](https://ghidra-sre.org/): A free reverse engineering toolset with a built-in decompiler.
@@ -81,16 +71,12 @@ A list of useful payloads and bypass for Web Application Security and Pentest/CT
  * [Angr](https://angr.io/): a python framework for analyzing binaries. It combines both static and dynamic 
  symbolic ("concolic") analysis, making it applicable to a variety of tasks.
 
-<br>
-
 ### Pwn
 * gdb: GNU Debugger
 * [gdb-peda](https://github.com/longld/peda): Makes the debugger nicer
 * Terminal command: `ltrace` for tracing library calls. Use the man page.
 * Terminal command: `strace` for tracing syscalls. Use the man page.
 * [pwntools](https://github.com/Gallopsled/pwntools)
-
-<br>
 
 ### Steganography
 * [Audacity](https://www.audacityteam.org/), for sound files.
@@ -100,13 +86,9 @@ A list of useful payloads and bypass for Web Application Security and Pentest/CT
 * [Zsteg](https://github.com/zed-0xff/zsteg) for png image files.
 * [Stego toolkit](https://github.com/DominicBreuker/stego-toolkit), a collection of many steganography tools.
 
-<br>
-
 ### Misc
 * [z3](https://github.com/Z3Prover/z3): "Z3 is a theorem prover from Microsoft Research."
 * [pwntools](https://github.com/Gallopsled/pwntools)
-
-<br>
 
 ### Terminal tools
 * man pages: Manual pages for functions. Write man in front of any terminal command or C function. 
@@ -116,8 +98,6 @@ A list of useful payloads and bypass for Web Application Security and Pentest/CT
 * `ltrace`: Tracing library calls. Use the man page.
 * `strace`: Tracing syscalls. Use the man page.
 
-<br>
-
 ### Python
 * Python is a very easy, yet powerful scripting language. It is very relevant for CTFs. Python probably can be used for all the categories of CTFs.
 * [Codecademy](https://www.codecademy.com/learn/learn-python): Nice page to learn python.
@@ -125,11 +105,7 @@ A list of useful payloads and bypass for Web Application Security and Pentest/CT
 * [pwntools](https://github.com/Gallopsled/pwntools): Read about usage in Python tutorial.
 * [scapy](http://scapy.readthedocs.io/en/latest/introduction.html): For forensics
 
-<br>
-
 _______
-
-<br>
 
 ## Tips for binary files
 * Binaries may be run in the terminal by putting a `./` in front of it. However, we must know that it is an executable first. We may check that by using either [**file**](#Terminal-tools) or [**binwalk**](#Terminal-tools). 
@@ -144,8 +120,6 @@ $ python3 -c 'print("A" * 30)' | ./binary_name
 * To find all functions in an executable, you can use `readelf -a ./executable`, or sometimes it is possible to simply write `disas ` and autocomplete when in [gdb-peda](#gdb-peda) to get a list of functions. 
 The source code of an executable have the same information, as all the functions are written inside the code. Therefore, this step may only be useful for the tasks that do not provide source files. 
 However, you could try to run the command on a task where the source code is provided, to test it and see if you understand it.
-
-<br>
 
 ## Tips for gdp-peda
 * gdb-peda is a plugin for your terminal to make debugging easier and more understandable.

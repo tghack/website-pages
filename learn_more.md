@@ -83,8 +83,15 @@ methodologies with other members of similar interests."
 
 ## Secure Coding
 * [OWASP Secure Coding Dojo](https://owasp.org/www-project-secure-coding-dojo/)
-is a very nice resource for secure development training. This is a resource that 
-may be presented to development teams to spread the word about secure development!
+is a very nice resource for secure development training. It is easy to set up
+locally and has documentation to set up as a workshop for several participant 
+using the cloud. This is a resource that may be presented to development teams 
+to spread the word about secure development!
+* [Secure Code Warrior](https://securecodewarrior.com/) is a platform to spot 
+security issues in several programming languages. The downside is that is seems
+to be focused on enterprise. However, we've heard that universities may get 
+some deals, so it is worth the try to contact them if you want to host something
+for a university group!
 
 ## Make pull request for suggestions
 If someone know about some nice web pages for learning more security and ethical 

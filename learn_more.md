@@ -25,9 +25,6 @@ Oslo's web page for hacking tasks. Some tasks contains solutions.
 * [BlackHoodie](https://www.blackhoodie.re/) offers free, women only workshops within 
 the security and hacking domain. We definitely recommend all women and non-binary 
 people to check out their workshops. 
-* [Pico CTF](https://picoctf.com/) is a free computer security game targeted at middle 
-and high school students, created by security experts at Carnegie Mellon University. 
-
 
 ### In Oslo/Norway
 * UiO-CTF's practical workshops are very nice to learn how to solve CTF 
@@ -67,6 +64,8 @@ like it is brand new, so some functionality is missing.
 CTFs now and then in the #ctf channel.
 
 ## Nice puzzles for learning more hacking
+* [Pico CTF](https://picoctf.com/) is a free computer security game targeted at middle 
+and high school students, created by security experts at Carnegie Mellon University. 
 * [Overthewire](http://overthewire.org/wargames) is a very nice website for 
 different puzzles. The category __bandit__ has terminal puzzles and __narnia__ 
 contains exploit intro puzzles.

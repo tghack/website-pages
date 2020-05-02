@@ -81,7 +81,12 @@ allowing you to test your penetration testing skills and exchange ideas and
 methodologies with other members of similar interests."
 * [TGHack's old tasks](https://github.com/tghack) on github. 
 
+## Secure Coding
+* [OWASP Secure Coding Dojo](https://owasp.org/www-project-secure-coding-dojo/)
+is a very nice resource for secure development training. This is a resource that 
+may be presented to development teams to spread the word about secure development!
+
 ## Make pull request for suggestions
 If someone know about some nice web pages for learning more security and ethical 
-hacking, please tell us! You may make a PR to our [public repository](https://github.com/tghack/ctf-task-templates/blob/master/pages/learn_more.md) 
+hacking, please tell us! You may make a PR to our [public repository](https://github.com/tghack/website-pages/blob/master/pages/learn_more.md) 
 with suggestions for additions to this page.
